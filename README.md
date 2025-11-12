@@ -8,7 +8,8 @@ In order to easily track and compare the outputs of the prompts, I've created br
 
 ### "Standard" Prompt
 
-[Prompt link](https://sgoldfarb2.github.io/practical-prompt-engineering/lessons/core-prompting-techniques/standard-prompt)
+- [Prompt link](https://sgoldfarb2.github.io/practical-prompt-engineering/lessons/core-prompting-techniques/standard-prompt)
+- [Branch](https://github.com/lstuartfry/prompt-engineering-exercise/tree/standard-prompt)
 
 ### Prompt 2
 
