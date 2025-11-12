@@ -11,6 +11,9 @@ In order to easily track and compare the outputs of the prompts, I've created br
 - [Prompt link](https://sgoldfarb2.github.io/practical-prompt-engineering/lessons/core-prompting-techniques/standard-prompt)
 - [Branch](https://github.com/lstuartfry/prompt-engineering-exercise/tree/standard-prompt)
 
+<img width="1728" height="964" alt="image" src="https://github.com/user-attachments/assets/c11c8674-fbd2-4a55-b319-4a5da304f05a" />
+
+
 ### Prompt 2
 
 ### Prompt 3
