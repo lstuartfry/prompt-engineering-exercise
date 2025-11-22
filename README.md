@@ -13,11 +13,9 @@ In order to easily track and compare the outputs of the prompts, I've created br
 
 <img width="1728" height="964" alt="image" src="https://github.com/user-attachments/assets/c11c8674-fbd2-4a55-b319-4a5da304f05a" />
 
+### "Zero Shot" Prompt
 
-### Prompt 2
+- [Prompt link](https://sgoldfarb2.github.io/practical-prompt-engineering/lessons/core-prompting-techniques/zero-shot)
+- [Branch](https://github.com/lstuartfry/prompt-engineering-exercise/tree/zero-shot-prompt)
 
-### Prompt 3
-
-### Prompt 4
-
-### Prompt 5
+<img width="1728" height="962" alt="Screenshot 2025-11-21 at 4 20 11 PM" src="https://github.com/user-attachments/assets/e8823253-6332-4e94-8393-ea539fd8bd61" />
