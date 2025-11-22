@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prompt Library</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Prompt Library</h1>
+            <p class="subtitle">Store and manage your prompts</p>
+        </header>
+
+        <section class="form-section">
+            <h2>Add New Prompt</h2>
+            <form id="promptForm">
+                <div class="form-group">
+                    <label for="promptTitle">Title</label>
+                    <input 
+                        type="text" 
+                        id="promptTitle" 
+                        name="title" 
+                        placeholder="Enter prompt title"
+                        required
+                    >
+                </div>
+                <div class="form-group">
+                    <label for="promptContent">Content</label>
+                    <textarea 
+                        id="promptContent" 
+                        name="content" 
+                        rows="6"
+                        placeholder="Enter prompt content"
+                        required
+                    ></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Save Prompt</button>
+            </form>
+        </section>
+
+        <section class="prompts-section">
+            <h2>Saved Prompts</h2>
+            <div id="promptsContainer" class="prompts-grid">
+                <!-- Prompts will be dynamically inserted here -->
+            </div>
+            <div id="emptyState" class="empty-state">
+                <p>No prompts saved yet. Add your first prompt above!</p>
+            </div>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
