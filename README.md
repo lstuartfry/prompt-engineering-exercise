@@ -4,6 +4,8 @@ This repository is tied to [Sabrina Goldfarb's prompt engineering exercise found
 
 In order to easily track and compare the outputs of the prompts, I've created branches associated with each prompt. The `main` branch contains commits associated with each prompt.
 
+**NOTE** - unless otherwise noted, I'm using Cursor's "Auto" mode on a personal Pro plan.
+
 ## Screenshots with associated prompts
 
 ### "Standard" Prompt
