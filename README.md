@@ -12,12 +12,3 @@ In order to easily track and compare the outputs of the prompts, I've created br
 - [Branch](https://github.com/lstuartfry/prompt-engineering-exercise/tree/standard-prompt)
 
 <img width="1728" height="964" alt="image" src="https://github.com/user-attachments/assets/c11c8674-fbd2-4a55-b319-4a5da304f05a" />
-
-
-### Prompt 2
-
-### Prompt 3
-
-### Prompt 4
-
-### Prompt 5
